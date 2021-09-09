@@ -7,7 +7,7 @@ class AnimalModelTestCase(TestCase):
             nome_animal= 'Leão',
             predador = 'Sim',
             venenoso = 'Sim',
-            domesticado = 'Não'
+            domestico = 'Não'
 
         )
 

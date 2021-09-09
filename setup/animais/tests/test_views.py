@@ -9,7 +9,7 @@ class IndexViewTestCAse(TestCase):
             nome_animal = "calopsita",
             predador = "Não",
             venenoso = "Não",
-            domesticado = "sim"
+            domestico = "sim"
         )
 
     def test_index_view_retorna_caracteristicas_do_animal(self):
